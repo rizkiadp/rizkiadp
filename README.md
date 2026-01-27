@@ -64,4 +64,4 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/rizkiadp/rizkiadp/.github/workflow/snake.yml" alt="GitHub contribution snake animation" />
+<img src=".github/workflow/snake.yml" alt="GitHub contribution snake animation" />
